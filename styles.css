@@ -1,0 +1,180 @@
+#topbar
+{
+	background-color:black;
+	width:100%;
+	height:20px;
+}
+body
+{
+	background-color:white;
+}
+#container
+{
+	width:70%;
+	margin:0px auto;
+}
+#header
+{
+	background-color:white;
+	height:80px;
+}
+#header img
+{
+	height:65px;
+	width:150px;
+}
+#header ul
+{
+	float:right;
+	margin-top:25px;
+}
+#header ul li
+{
+	display:inline;
+	margin-right:20px;
+}
+#header ul li a
+{
+	color:grey;
+	text-decoration:none;
+	font-size:18px;
+}
+#banner img
+{
+	width:100%;
+	height:350px;
+}
+#content1
+{
+	background-color:#db66c1;
+	height:300px;
+	width:32%;
+	margin-right:2%;
+	overflow:hidden;
+	margin-top:35px;
+	float:left;
+}
+#content2
+{
+	background-color:#f4e621;
+	height:300px;
+	width:32%;
+	margin-right:2%;
+	overflow:hidden;
+	margin-top:35px;
+	float:left;
+}
+#content3
+{
+	background-color:#81aa25;
+	height:300px;
+	width:32%;
+	overflow:hidden;
+	margin-top:35px;
+	float:right;
+}
+.heading{
+	font-size:30px;
+	margin-top:20px;
+	color:white;
+	margin-left:20px;
+}
+.para1
+{
+	font-size:15px;
+	color:white;
+	margin-left:20px;
+	margin-right:20px;
+}
+.more
+{
+	text-decoration:none;
+	border:1px solid;
+	border-color:white;
+	background-color:white;
+	color:black;
+	padding:8px;
+	margin-left:20px;
+}
+#bottom1
+{
+	width:60%;
+	float:left;
+	margin-top:15px;
+}
+#bottom2
+{
+	width:40%;
+	float:left;
+	margin-top:15px;
+}
+#bottom1 h2
+{
+	color:black;
+	font-size:23px;
+	margin-left:20px;
+}
+#bottom1 p
+{
+	color:black;
+	font-size:20px;
+	margin-right:20px;
+	margin-left:20px;
+}
+#bottom1 a
+{
+	color:orange;
+	font-size:20px;
+}
+#bottom2 h2
+{
+	color:black;
+	font-size:23px;
+	margin-left:20px;
+}
+#bottom2 p
+{
+	color:black;
+	text-decoration:underline;
+	font-size:20px;
+	margin-left:20px;
+}
+#bottom2 img
+{
+	height:290px;
+	width:100%;
+}
+#bottom2 a
+{
+	color:orange;
+	font-size:20px;
+}
+#footer
+{
+	background-color:black;
+	width:100%;
+	height:50px;
+	clear:both;
+}
+#footer ul
+{
+	float:left;
+	margin-top:25px;
+}
+#footer ul li
+{
+	display:inline;
+	margin-right:20px;
+}
+#footer ul li a
+{
+	color:grey;
+	text-decoration:none;
+	font-size:18px;
+}
+#footer p
+{
+	float:right;
+	color:white;
+	margin-right:20px;
+}
